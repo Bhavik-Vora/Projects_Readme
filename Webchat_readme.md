@@ -1,5 +1,5 @@
 - **Live Demo**: [WebChat Live Demo](https://chat-app-frontend-puce-eight.vercel.app/)
-- 
+
 # WebChat – Real-Time Messaging Application 💬
 
 🚀 Thrilled to announce the completion of **WebChat**, a real-time chat application that enhances the way we communicate and collaborate online! 🌐
