@@ -2,6 +2,9 @@
 
 [Live Demo Link](https://skils-nxt-frontend.vercel.app/login)
 
+##Username : testing@gmail.com
+##Password : testing
+
 # Subscription-Based Video Player Web App
 
 🎉 Excited to announce the completion of my latest project—a subscription-based video player web app! 🎥✨
