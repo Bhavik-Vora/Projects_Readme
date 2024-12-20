@@ -2,8 +2,8 @@
 
 [Live Demo Link](https://skils-nxt-frontend.vercel.app/login)
 
-##Username : testing@gmail.com
-##Password : testing
+## Username : testing@gmail.com
+## Password : testing
 
 # Subscription-Based Video Player Web App
 
